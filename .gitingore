@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+
+Examples/.ipynb_checkpoints/
+Core/.DS_Store
+
+Core/__pycache__/
+Core/.DS_Store
+
