@@ -13,7 +13,7 @@
 !Examples/Slide_Histogram/.ipynb
 !Examples/Slide_Histogram/.py
 
-tmp/*
+tmp/
 
 
 Examples/.ipynb_checkpoints
