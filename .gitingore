@@ -1,6 +1,10 @@
 .DS_Store
 .vscode
 
+tmp/
+Examples/.ipynb_checkpoints/
+Core/__pycache__/
+Core/.DS_Store
 # ignore files in folder foo
 !Core/*.py
 !Core/Cython/*.sh
