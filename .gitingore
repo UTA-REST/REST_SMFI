@@ -2,7 +2,7 @@
 .vscode
 
 # ignore files in folder foo
-!Core/.py
+!Core/*.py
 !Core/Cython/*.sh
 !Core/Cython/*.py
 !Core/Cython/*.pyx
@@ -16,4 +16,4 @@
 tmp/*
 
 
-#Examples/.ipynb_checkpoints
+Examples/.ipynb_checkpoints
