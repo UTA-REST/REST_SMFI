@@ -1,0 +1,16 @@
+.DS_Store
+.vscode
+
+# ignore files in folder foo
+!Core/.py
+!Core/Cython/*.sh
+!Core/Cython/*.py
+!Core/Cython/*.pyx
+
+!Examples/.ipynb
+!Examples/.py
+
+!Examples/Slide_Histogram/.ipynb
+!Examples/Slide_Histogram/.py
+
+tmp/*
